@@ -1,0 +1,26 @@
+# Eclipse IDE specific folders
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+ 
+# Eclipse project specific files 
+.classpath
+.project
+.settings/
+bin/
+
+# Compiled files
+*.class
+
+# Executables folder
+DeltaIoT-executables/
+
+# Security sensitive folder
+openvpn_keys/
+
+# OS specific files
+.DS_Store
+
+# Log files
+*.log
+
