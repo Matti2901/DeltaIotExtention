@@ -1,16 +1,7 @@
 # DeltaIoT Simulator — Project Course Self Adaptive System
 
-This repository contains a Java-based simulator implementing a self-adaptive system based on DeltaIoT, extended to support 3 new different types of runtime uncertainties.
+This repository contains a Java-based simulator implementing a self-adaptive system based on DeltaIoT, extended to support 1 new different types of runtime uncertainties.
 
-## Branches Overview
-
-Each branch of the repository represents a specific uncertainty scenario:
-
-- `BatteryHardwareDegradation`: models the natural decay of battery capacity in IoT motes over time.
-- `LocalCongestionMotes`: models congestion due to traffic spikes that saturate mote buffers.
-- `MalfunctionEnvironmentalData`: models faulty motes sending invalid or unusable environmental data.
-
-Switch to the appropriate branch depending on the uncertainty you want to analyze.
 
 ## Requirements
 
